@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da47aa4a.css",
-    "main.js": "/static/js/main.a4e0bb96.js",
+    "main.css": "/static/css/main.9bf744a0.css",
+    "main.js": "/static/js/main.0c5eb318.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/social-media.gif": "/static/media/social-media.c425a61ef0966f7c2ac0.gif",
     "static/media/wave.gif": "/static/media/wave.746676b831350ea32bbd.gif",
@@ -9,16 +9,22 @@
     "static/media/document.gif": "/static/media/document.20ac1fa2f83f6feea0d9.gif",
     "static/media/logo.png": "/static/media/logo.d90cea776dd1d85aadb7.png",
     "static/media/Profile.jpg": "/static/media/Profile.455c5b1551f42ab55b52.jpg",
+    "static/media/react.png": "/static/media/react.4127b36258b5e9dc8f88.png",
+    "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/c-sharp.png": "/static/media/c-sharp.e6db844d98067bbcaad3.png",
+    "static/media/c.png": "/static/media/c.777ef5346ec1e9acabcf.png",
     "static/media/Tanisha logo text.jpg": "/static/media/Tanisha logo text.a3f3f7deb2166948d599.jpg",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
     "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/html-5.png": "/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "index.html": "/index.html",
-    "main.da47aa4a.css.map": "/static/css/main.da47aa4a.css.map",
-    "main.a4e0bb96.js.map": "/static/js/main.a4e0bb96.js.map",
+    "main.9bf744a0.css.map": "/static/css/main.9bf744a0.css.map",
+    "main.0c5eb318.js.map": "/static/js/main.0c5eb318.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da47aa4a.css",
-    "static/js/main.a4e0bb96.js"
+    "static/css/main.9bf744a0.css",
+    "static/js/main.0c5eb318.js"
   ]
 }
