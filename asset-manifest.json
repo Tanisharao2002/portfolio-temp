@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36b52775.css",
-    "main.js": "/static/js/main.9f135160.js",
+    "main.js": "/static/js/main.d53e7846.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/social-media.gif": "/static/media/social-media.c425a61ef0966f7c2ac0.gif",
     "static/media/left-arrow.gif": "/static/media/left-arrow.9c83575ac8b63f8f99b8.gif",
@@ -28,16 +28,17 @@
     "static/media/Tanisha logo text.jpg": "/static/media/Tanisha logo text.a3f3f7deb2166948d599.jpg",
     "static/media/brain.png": "/static/media/brain.9cf05298a62217abdaf0.png",
     "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/calculator.png": "/static/media/calculator.9b644f17c9849f7afcbd.png",
     "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
     "static/media/html-5.png": "/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/css-3.png": "/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "index.html": "/index.html",
     "main.36b52775.css.map": "/static/css/main.36b52775.css.map",
-    "main.9f135160.js.map": "/static/js/main.9f135160.js.map",
+    "main.d53e7846.js.map": "/static/js/main.d53e7846.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36b52775.css",
-    "static/js/main.9f135160.js"
+    "static/js/main.d53e7846.js"
   ]
 }
